@@ -43,7 +43,7 @@ LLMs are brilliant, but their memory is expensive. As conversations drag on, pro
 
 ## 🚀 Live Interactive Demo
 We hosted an interactive simulator inside this repository so you can watch the truncation algorithm prune data in real-time.
-👉 **[View the Live Demo on GitHub Pages](https://your-username.github.io/sliding-window-trim-engine/)**
+👉 **[View the Live Demo on GitHub Pages](https://iggym.github.io/sliding-window-trim-engine/)**
 
 ---
 
